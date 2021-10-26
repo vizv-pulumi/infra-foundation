@@ -1,0 +1,16 @@
+{
+  "name": "infra-foundation",
+  "devDependencies": {
+    "@types/node": "^10.0.0",
+    "typescript": "^3.7.7"
+  },
+  "dependencies": {
+    "@pulumi/kubernetes": "^3.0.0",
+    "@pulumi/pulumi": "^3.0.0",
+    "@vizv/module-cert-manager": "^1.0.0",
+    "@vizv/module-ingress-nginx": "^1.0.0",
+    "@vizv/module-local-path-provisioner": "^1.0.0",
+    "@vizv/module-metallb": "^1.0.0"
+  },
+  "version": "1.0.0"
+}
